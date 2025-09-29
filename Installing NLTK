@@ -1,0 +1,2 @@
+#Installing NLTK package
+pip install -U nltk
